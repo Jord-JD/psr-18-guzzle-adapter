@@ -1,10 +1,10 @@
 <?php
 
-namespace DivineOmega\Psr18GuzzleAdapter;
+namespace JordJD\Psr18GuzzleAdapter;
 
 
-use DivineOmega\Psr18GuzzleAdapter\Exceptions\ClientException;
-use DivineOmega\Psr18GuzzleAdapter\Exceptions\NetworkException;
+use JordJD\Psr18GuzzleAdapter\Exceptions\ClientException;
+use JordJD\Psr18GuzzleAdapter\Exceptions\NetworkException;
 use GuzzleHttp\Client as GuzzleClient;
 use GuzzleHttp\Exception\GuzzleException;
 use GuzzleHttp\Exception\RequestException;

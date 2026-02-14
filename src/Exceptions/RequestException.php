@@ -1,6 +1,6 @@
 <?php
 
-namespace DivineOmega\Psr18GuzzleAdapter\Exceptions;
+namespace JordJD\Psr18GuzzleAdapter\Exceptions;
 
 use Psr\Http\Client\RequestExceptionInterface;
 use Psr\Http\Message\RequestInterface;

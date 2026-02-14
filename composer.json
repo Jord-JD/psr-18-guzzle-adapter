@@ -16,7 +16,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "DivineOmega\\Psr18GuzzleAdapter\\": "src/"
+      "JordJD\\Psr18GuzzleAdapter\\": "src/"
     }
   },
   "replace": {
@@ -24,7 +24,7 @@
   },
   "extra": {
     "branch-alias": {
-      "dev-master": "2.0-dev"
+      "dev-master": "3.0-dev"
     }
   }
 }
